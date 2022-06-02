@@ -1,0 +1,4 @@
+networks:
+  default: ropsten
+
+dotenv: .env
